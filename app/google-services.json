@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14395497642",
+    "project_id": "macathon2026-8d1c5",
+    "storage_bucket": "macathon2026-8d1c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14395497642:android:987ae1c7ae9c2556b884d3",
+        "android_client_info": {
+          "package_name": "com.example.macathonfrontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbvRixZnz3uiP9HBoDCqQqq1199xiCx4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
